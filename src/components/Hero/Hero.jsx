@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import heroSlides from "../../data/heroSlides";
-import LogoDoBanner from "../../assets/ico/Logo-Sem-Fundo.png";
+import LogoDoBanner from "../../public/Logo-Sem-Fundo.png";
 import "./Hero.css";
 
 export default function Hero() {
@@ -32,7 +32,7 @@ export default function Hero() {
           <img src={LogoDoBanner} alt="Logo da EMEI Vivendo e Aprendendo" />
         </div>
 
-        <h1>EMEI<br /><em>Vivendo e Aprendendo</em></h1>
+        <h1>EMEI<br /><em>Vivendo e Aprendendo (teste)</em></h1>
         <p>Um lugar para brincar, descobrir, conviver e crescer.</p>
         <a className="button" href="#sobre">Conheça nossa escola <span>↓</span></a>
       </div>
