@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import heroSlides from "../../data/heroSlides";
-import LogoDoBanner from "../../assets/ico/Logo-Sem-Fundo.png";
+import LogoDoBanner from "../../public/Logo-Sem-Fundo.png";
 import "./Hero.css";
 
 export default function Hero() {

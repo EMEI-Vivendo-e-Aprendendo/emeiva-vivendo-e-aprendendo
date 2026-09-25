@@ -1,5 +1,5 @@
 import "./Intro.css";
-import MiniaturaLogo from '../../assets/ico/Logo-Sem-Fundo.png'
+import MiniaturaLogo from "../../public/Logo-Sem-Fundo.png"
 
 export default function Intro() {
   return (
