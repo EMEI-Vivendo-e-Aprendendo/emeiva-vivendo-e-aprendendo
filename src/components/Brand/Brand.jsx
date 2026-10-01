@@ -1,5 +1,5 @@
 import "./Brand.css";
-import Logo from "../../assets/ico/Logo.png";
+import Logo from "../../public/Logo.png";
 
 export default function Brand({ compact = false }) {
   return (
